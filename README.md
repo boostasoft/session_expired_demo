@@ -4,3 +4,25 @@ Suppose you are developing an application that deals with sensitive user data, a
 ![Image of session countdown](https://github.com/boostasoft/session_expired_demo/blob/master/assets/session_countdown.png)
 
 ![Image of session expired](https://github.com/boostasoft/session_expired_demo/blob/master/assets/session_expired.png)
+
+Contact
+
+
+	
+contact@boostasoft.com
+
+
+Projects
+
+
+	
+https://www.getjobs.careers
+	
+https://boostasoft.com/covid-alert/index.html
+
+
+Paypal support
+
+
+	
+https://www.paypal.com/donate?hosted_button_id=PWNATBXSE3VVU
